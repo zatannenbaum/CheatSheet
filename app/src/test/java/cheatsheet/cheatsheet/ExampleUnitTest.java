@@ -1,4 +1,4 @@
-package edu.dartmouth.cs.cheatsheet;
+package cheatsheet.cheatsheet;
 
 import org.junit.Test;
 
