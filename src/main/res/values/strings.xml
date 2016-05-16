@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cheat Sheet</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ChangeButtons">Change</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+
+    <string name="profile_icon">Profile Icon</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="Phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="Bio">Bio</string>
+    <string name="instrumentPosition">Instrument Position</string>
+
+    <string name="User_Profile_SavedMessage">User Profile Saved.</string>
+
+    <string name="User_Profile_Picture">CheatSheetUserPic.png</string>
+
+    <string name="CowbellPositionEasterEgg">3</string>
+    <string name="CowbellEasterEgg">CowbellEasterEgg</string>
+</resources>

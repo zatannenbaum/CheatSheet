@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="instrumentOptions">
+        <item>Bass</item>
+        <item>Basoon</item>
+        <item>Cello</item>
+        <item>Cowbell</item>
+        <item>Drums</item>
+        <item>Flute</item>
+        <item>French Horn</item>
+        <item>Guitar</item>
+        <item>Harp</item>
+        <item>Harmonica</item>
+        <item>Mandolin</item>
+        <item>Oboe</item>
+        <item>Paino/Keyboard</item>
+        <item>Saxophone</item>
+        <item>Tambourine</item>
+        <item>Triangle</item>
+        <item>Trombone</item>
+        <item>Trumpet</item>
+        <item>Ukulele</item>
+        <item>Viola</item>
+        <item>Violin</item>
+        <item>Vocals</item>
+        <item>Xylophone</item>
+    </string-array>
+
+</resources>
