@@ -22,36 +22,13 @@ public class Splash extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-
-
         loadApp();
     }
 
     private void loadApp() {
-//        pl.droidsonroids.gif.GifTextView loadGif = (GifTextView) findViewById(R.id.loadGif);
 
         long startTime = System.currentTimeMillis();
-//        loadGif.setAnimation(new Animation() {});
-//        final MediaController mc = new MediaController( this );
-//        mc.setM;
 
-//        loadGif.animate();
-
-//        int index = 0;
-//        while (System.currentTimeMillis() - startTime < 50000){ //5 seconds loading time
-//            try {
-//                Thread.sleep(100);
-//            }
-//            catch(InterruptedException exception){
-//                exception.printStackTrace();
-//            }
-////            if (loadGif.getAnimation().hasEnded()){
-////                loadGif.getAnimation().reset();
-////                index++;
-////            }
-//        }
-//
-//
         new Timer().schedule(new TimerTask(){
             public void run() {
                 Splash.this.runOnUiThread(new Runnable() {
@@ -61,14 +38,6 @@ public class Splash extends Activity {
                     }
                 });
             }
-        }, 6000);
-
-//
-//        Intent intent = new Intent(this, MainActivity.class);
-//        startActivity(intent);
-//        }
-
+        }, 3000);
     }
-
-
 }
